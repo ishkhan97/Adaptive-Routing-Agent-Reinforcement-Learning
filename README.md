@@ -41,3 +41,9 @@ We evaluate agents using:
 ## Takeaways
 
 This project demonstrates that reinforcement learning should be evaluated not only by final performance, but by stability, sensitivity, and comparison to classical methods.
+
+Medium: https://medium.com/python-in-plain-english/building-an-adaptive-routing-agent-with-reinforcement-learning-and-pytorch-f9963b4b09a7
+
+Zenodo: https://zenodo.org/records/20352526
+
+Thanks!
